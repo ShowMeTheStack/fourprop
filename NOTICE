@@ -1,0 +1,23 @@
+fourprop: order-k Fourier propagation of signal probabilities
+Copyright (C) 2026 Jyotiprakash Mishra <mail@jyotiprakash.org>
+
+This program is licensed under the GNU General Public License, version 3 of the
+License only (GPL-3.0-only; see LICENSE). There is no Classpath exception and no
+other linking exception.
+
+ADDITIONAL TERM UNDER SECTION 7(b) OF THE GNU GENERAL PUBLIC LICENSE
+
+Any use, copy, modification, extension or redistribution of this program, in
+source or object form, in whole or in part, including works that incorporate or
+derive from it, must preserve this copyright notice and give reasonable
+attribution to the author, Jyotiprakash Mishra, in the program's documentation
+and in any publication, report or product notice that describes the work. Where
+the work supports a scientific publication, the attribution should cite:
+
+  R. P. Das, J. Mishra, S. K. Sahay, A. Pathak, L. K. Vashishtha, S. Mishra,
+  "Order-k Fourier propagation: unified and certified signal-probability
+  estimation for logic circuits", submitted to Integration, the VLSI Journal, 2026,
+  and the repository https://github.com/ShowMeTheStack/fourprop.
+
+Removal or alteration of this attribution is a violation of the license. This
+file must be kept with every copy of the program and of works derived from it.
